@@ -1,0 +1,33 @@
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+
+languageCode = "pt-br"
+title = "Caio Almeida"
+theme = "beautifulhugo"
+
+[indexes]
+   category = "categories"
+
+[Params]
+  logo = "img/avatar-icon.png"
+  title = ""
+  subtitle = "Build a beautiful and simple website in minutes"
+
+[Author]
+  name = "Caio Almeida"
+  email = "caioamd@hotmail.com"
+  facebook = "caio.fabio.almeida"
+  github = "caiofralmeida"
+  linkedin = "pub/caio-almeida/85/b55/388"
+  stackoverflow = "6180793/caio-almeida"
+
+[[menu.main]]
+    name = "Blog"
+    url = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "About"
+    url = "/page/about/"
+    weight = 2
