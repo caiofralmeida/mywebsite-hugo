@@ -2,6 +2,11 @@
 
 echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 
+# update theme
+rm -rf themes/beautifulhugo
+
+git clone git@github.com:caiofralmeida/beautifulhugo.git themes/beautifulhugo
+
 # Build the project.
 hugo -t beautifulhugo # if using a theme, replace by `hugo -t <yourtheme>`
 

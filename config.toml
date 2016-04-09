@@ -2,17 +2,20 @@ contentdir = "content"
 layoutdir = "layouts"
 publishdir = "public"
 
+baseurl = "/"
 languageCode = "pt-br"
-title = "Caio Almeida"
+title = "Caio Almeida #dev"
 theme = "beautifulhugo"
+DisqusShortname = true
 
 [indexes]
    category = "categories"
 
 [Params]
-  logo = "img/avatar-icon.png"
-  title = ""
+  logo = "img/caiofralmeida.jpg"
+  title = "my photo"
   subtitle = "Build a beautiful and simple website in minutes"
+  textOnLeftBar = "caioalmeida.eti.br"
 
 [Author]
   name = "Caio Almeida"
