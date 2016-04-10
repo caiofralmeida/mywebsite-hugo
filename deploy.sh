@@ -2,7 +2,11 @@
 
 echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 
-# update theme
+# Config user git
+git config user.name "Caio Almeida - CI"
+git config user.email "caio.f.r.amd@gmail.com"
+
+# Update theme
 rm -rf themes/beautifulhugo
 
 git clone git@github.com:caiofralmeida/beautifulhugo.git themes/beautifulhugo
