@@ -1,6 +1,6 @@
 ----------------------------------
 #### Foco atual
-* Estudos do design de Software Orientado a Objetos, com o objetivo de construir aplicações mais robustas e flexíveis, utilizando design patterns, SOLID, GRASP, TTD, BDD e técnicas de código limpo / refatoração. 
+* Estudos do design de Software Orientado a Objetos, com o objetivo de construir aplicações mais robustas e flexíveis, utilizando design patterns, SOLID, GRASP, TTD, BDD e técnicas de código limpo/refatoração. 
 
 --------
 

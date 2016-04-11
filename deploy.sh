@@ -24,7 +24,7 @@ cp CNAME public
 cd public
 
 # Add changes to git.
-git add -A
+git add -A .
 
 # Commit changes.
 msg="rebuilding site `date`"
