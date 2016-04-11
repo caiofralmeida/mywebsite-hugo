@@ -14,7 +14,7 @@ DisqusShortname = true
 [Params]
   logo = "img/caiofralmeida.jpg"
   title = "my photo"
-  subtitle = "Desenvolvedor de software com foco em backend a mais de 4 anos, fascinado por tecnologia. Atualmente trabalha na Catho contribuindo para que diversas pessoas possam ter uma vida melhor."
+  subtitle = "Formado em Redes de computadores, desenvolvedor de software com foco em backend a mais de 4 anos, fascinado por tecnologia. Atualmente trabalha na Catho contribuindo para que diversas pessoas possam ter uma vida melhor."
   textOnLeftBar = "caioalmeida.eti.br"
 
 [Author]

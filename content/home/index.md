@@ -1,13 +1,17 @@
 ----------------------------------
 #### Foco atual
-* Esse é um paragrafo, muito bom!
+* Estudos do design de Software Orientado a Objetos, com o objetivo de construir aplicações mais robustas e flexíveis, utilizando design patterns, SOLID, GRASP, TTD, BDD e técnicas de código limpo / refatoração. 
 
 --------
 
 #### Skills
-* PHP
-+ Phalcon Framework
-- Vish
+* *Clean Coder*
+* [*Software Object-oriented designer*](https://en.wikipedia.org/wiki/Object-oriented_design)
+* *Agile Tester*
+* PHP (principal linguagem)
+* *Zend Framework 2*
+* *Phalcon Framework*
+* Banco de dados / *NoSql*
 
 -----------
 
