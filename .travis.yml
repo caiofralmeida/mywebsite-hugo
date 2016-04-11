@@ -3,7 +3,11 @@ language: php
 sudo: false
 
 php:
-  - '7.0'
+ - '7.0'
+
+before_install:
+ - sed -i 's/git@github.com:/https:\/\/github.com\//' .gitmodules
+ - git submodule update --init --recursive
 
 script:
  - sh deploy.sh
