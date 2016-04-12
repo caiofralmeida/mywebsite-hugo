@@ -6,10 +6,11 @@ php:
  - '7.0'
 
 before_install:
- - sed -i 's/git@github.com:/https:\/\/github.com\//' .gitmodules
+ - sed -i 's/git@github.com:/https:\/\/GH_TOKEN@github.com\//' deploy.sh
+ - sed -i 's/git@github.com:/https:\/\/GH_TOKEN@github.com\//' .gitmodules
  - git submodule update --init --recursive
 
-script:
+install:
  - sh deploy.sh
 
 notifications:
