@@ -14,6 +14,8 @@ git clone git@github.com:caiofralmeida/beautifulhugo.git themes/beautifulhugo
 # Build the project.
 hugo -t beautifulhugo # if using a theme, replace by `hugo -t <yourtheme>`
 
+gulp
+
 # Copy README.md
 cp README.md public
 
